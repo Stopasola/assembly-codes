@@ -1,0 +1,4 @@
+O tempo de Execução do Codigo em C foi 8.270
+Depois de varias tentativas de execução não consegui, rodar os tempos de execução do código 
+assembler. Todavia o segundo o que foi  visto em sala o exemplo com menos registradores é para 
+demorar mais pois tem mais acesso a memoria.
