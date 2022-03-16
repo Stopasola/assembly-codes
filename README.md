@@ -7,58 +7,58 @@ All the codes disponibilized here were developed during my college time on the a
 ## Simple exercises 
 This folder has all kinds of problems without much complexity.
 
-- [Average Calculations](https://github.com/Stopasola/assembly-codes/blob/main/Simple%20exercices/average_calculations.s)
+- [Average Calculations](https://github.com/Stopasola/assembly-codes/blob/main/simple_exercices/average_calculations.s)
 
   Calculate the average of 4 signed 32-bit a,b,c,d values
   A) Store in a variable S the sum of values ​​smaller than the mean
   B) Store in a variable S1 the sum of values ​​greater than the mean
 
-- [Bigger of two](https://github.com/Stopasola/assembly-codes/blob/main/Simple%20exercices/bigger_of_2.s)
+- [Bigger of two](https://github.com/Stopasola/assembly-codes/blob/main/simple_exercices/bigger_of_2.s)
 
   Considering a and b, store the largest of them in a memory location called 
   LARGER and SMALLEST in a memory location called SMALL.
 
-- [Bigger of Three](https://github.com/Stopasola/assembly-codes/blob/main/Simple%20exercices/bigger_of_3.s)
+- [Bigger of Three](https://github.com/Stopasola/assembly-codes/blob/main/simple_exercices/bigger_of_3.s)
 
   Considering A,B and C, store the largest of them in a memory location called
   LARGER and SMALLEST in a memory location called SMALL.
 
-- [Factorial](https://github.com/Stopasola/assembly-codes/blob/main/Simple%20exercices/calculate_factorial.s)
+- [Factorial](https://github.com/Stopasola/assembly-codes/blob/main/simple_exercices/calculate_factorial.s)
   
   Calculate the factorial of a number N.
 
-- [Factorial of 64-bit and 32-bit integers](https://github.com/Stopasola/assembly-codes/blob/main/Simple%20exercices/calculate_factorial_32%2664_bits.s)
+- [Factorial of 64-bit and 32-bit integers](https://github.com/Stopasola/assembly-codes/blob/main/simple_exercices/calculate_factorial_32%2664_bits.s)
   
   Calculate the factorial of a number N. (Unsigned version for 64-bit and 32-bit integers)
 
-- [Hours Comparisons](https://github.com/Stopasola/assembly-codes/blob/main/Simple%20exercices/hours_comparisons.s)
+- [Hours Comparisons](https://github.com/Stopasola/assembly-codes/blob/main/simple_exercices/hours_comparisons.s)
 
   Given two time values ​​in the format hh1:mm1:ss1 and hh2:mm2:ss2 store eax the value in seconds of     the hour closest to 0.
 
-- [Pair Numbers](https://github.com/Stopasola/assembly-codes/blob/main/Simple%20exercices/pair_numbers.s)
+- [Pair Numbers](https://github.com/Stopasola/assembly-codes/blob/main/simple_exercices/pair_numbers.s)
   
   Sum of A,B,C and D only if the num is even.
 
-- [Mesure Volume](https://github.com/Stopasola/assembly-codes/blob/main/Simple%20exercices/mesure_volume.s)
+- [Mesure Volume](https://github.com/Stopasola/assembly-codes/blob/main/simple_exercices/mesure_volume.s)
   
   Following the basic formula for the area of a rectangular shape is length × width, the basic formula   for volume is length × width × height.
 
-- [Nth term of the Fibonacci sequence for 64-bit and 32-bit integers](https://github.com/Stopasola/assembly-codes/blob/main/Simple%20exercices/nth_fibonacci_sequence_32%2664_bits.s)
+- [Nth term of the Fibonacci sequence for 64-bit and 32-bit integers](https://github.com/Stopasola/assembly-codes/blob/main/simple_exercices/nth_fibonacci_sequence_32%2664_bits.s)
   
   Calculate the nth term of the Fibonacci sequence. (Unsigned version for 64-bit and 32-bit integers).
 
-- [Nth term of the Fibonacci sequence](https://github.com/Stopasola/assembly-codes/blob/main/Simple%20exercices/nth_fibonacci_sequence.s)
+- [Nth term of the Fibonacci sequence](https://github.com/Stopasola/assembly-codes/blob/main/simple_exercices/nth_fibonacci_sequence.s)
   
   Calculate the nth term of the Fibonacci sequence.
 
-- [Nth term of Prime Numbers](https://github.com/Stopasola/assembly-codes/blob/main/Simple%20exercices/nth_prime_number.s)
+- [Nth term of Prime Numbers](https://github.com/Stopasola/assembly-codes/blob/main/simple_exercices/nth_prime_number.s)
   
   Read a number N and print the Nth prime number informed.
   Ex: N = 3. 
   The program will have to print The third prime number, which is 5. 
   Nth (2) = 3, Nth (5) = 11.
 
-- [C code translation](https://github.com/Stopasola/assembly-codes/blob/main/Simple%20exercices/code_translation.s)
+- [C code translation](https://github.com/Stopasola/assembly-codes/blob/main/simple_exercices/code_translation.s)
 
   Translate de C code above
 
